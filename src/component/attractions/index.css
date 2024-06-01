@@ -1,0 +1,23 @@
+.attraction {
+display: flex;
+flex-direction: column;
+gap: 20px;
+
+}
+
+
+
+.attraction__list {
+
+
+    display: flex;
+flex-direction: column;
+gap: 20px;
+
+}
+
+
+.attraction__item {
+
+    color: black;
+}

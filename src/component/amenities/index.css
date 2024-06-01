@@ -1,0 +1,15 @@
+.details {
+
+display: flex;
+flex-direction: column;
+gap: 24px;
+
+
+}
+
+
+.details__items {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
